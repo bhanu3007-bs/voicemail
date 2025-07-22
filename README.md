@@ -28,20 +28,6 @@ voice-email-blind/
 
 |   └── command_classifier.pkl                    # Trained ML model for command prediction
 
-📁 Repository Files Navigation
-
-voice-email-blind/
-├── app.py                    # Main voice control application
-├── train_intent_model.py     # Intent classification model using Random Forest
-├── requirements.txt          # Project dependencies
-├── README.md                 # Project documentation
-├── templates/
-│   └── index.html            # Voice-guided HTML interface (for screen readers)
-├── static/
-│   ├── style.css             # Audio style prompts
-│   └── voice_tts.js          # TTS and STT interaction
-└── model/
-    └── command_classifier.pkl  # Trained ML model for command prediction
 
 
 
